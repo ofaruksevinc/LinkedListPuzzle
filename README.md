@@ -85,7 +85,7 @@ Proje dizinine gidin
 
 ## Emeği Geçenler
 - @faruksevinc
--
+- @huseyin7883
 - @atayazz
 
 
