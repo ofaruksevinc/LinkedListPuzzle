@@ -21,7 +21,7 @@ Görsel 1
 
 ## Kodun yapısı aşağıdaki gibidir:
 
-    # Bağlı liste oluşturma
+    ### Bağlı Liste Oluşturma
 
 - Resim 16 parçaya bölünür ve her bir parça bir düğüm oluşturur.
 - Düğümler, komşularına işaret eden bağlantıları içerir.
@@ -30,7 +30,7 @@ Görsel 1
 - Düğümler, bağlı listeye eklenir.
 - Oyun tahtası ekrana yazdırılır.
 
-    # Kullanıcının hamleleri
+    ### Kullanıcının hamleleri
 
 - Taşınan parçanın yeni konumu, bağlı listesi üzerindeki düğümlerin yerlerinin değiştirilmesiyle güncellenir.
 - Her hamlede puanlama yapılır ve doğru hamleler 5 puan, yanlış hamleler -10 puan ile ödüllendirilir.
