@@ -12,7 +12,7 @@
 - Ayrıca, her hamlede puanlama yapılmalıdır. Doğru hamleler 5 puan, yanlış hamleler -10 puan ile ödüllendirilir. Bu şekilde, oyuncunun yüksek puan almaya çalışması ve doğru hamleleri yapmaya teşvik edilmesi sağlanabilir.
 
 ## Oyun İle İlgili Görseller
-Görsel 1
+- Proje başlatıldığında ilk olarak kullanıcıdan isim bilgisi alınır.
 ![foto1](https://user-images.githubusercontent.com/56548687/230567331-8c9dba8d-cf4f-45d4-8257-8ea9804f5388.png)
 
 ## Geliştirme Ortamı Hakkında
@@ -21,7 +21,7 @@ Görsel 1
 
 ## Kodun yapısı aşağıdaki gibidir:
 
-    #Bağlı Liste Oluşturma
+### Bağlı Liste Oluşturma
 
 - Resim 16 parçaya bölünür ve her bir parça bir düğüm oluşturur.
 - Düğümler, komşularına işaret eden bağlantıları içerir.
@@ -30,7 +30,7 @@ Görsel 1
 - Düğümler, bağlı listeye eklenir.
 - Oyun tahtası ekrana yazdırılır.
 
-    #Kullanıcının hamleleri
+### Kullanıcının hamleleri
 
 - Taşınan parçanın yeni konumu, bağlı listesi üzerindeki düğümlerin yerlerinin değiştirilmesiyle güncellenir.
 - Her hamlede puanlama yapılır ve doğru hamleler 5 puan, yanlış hamleler -10 puan ile ödüllendirilir.
