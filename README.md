@@ -85,7 +85,7 @@ Proje dizinine gidin
 
 ## Emeği Geçenler
 
-- | Ad | Soyad |
+| Ad | Soyad |
 |--|--|
 | Ömer Faruk | Sevinç |
 | Hüseyin | NAS |
