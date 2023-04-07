@@ -63,16 +63,15 @@ License
 Projeyi klonlayın
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/ofaruksevinc/LinkedListPuzzle.git
 ```
 
 Proje dizinine gidin
 
 ```bash
-  cd my-project
+  cd LinkedListPuzzle
 ```
 
-Gerekli paketleri yükleyin 
 
 
 
