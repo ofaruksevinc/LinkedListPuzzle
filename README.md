@@ -12,10 +12,20 @@
 - Ayrıca, her hamlede puanlama yapılmalıdır. Doğru hamleler 5 puan, yanlış hamleler -10 puan ile ödüllendirilir. Bu şekilde, oyuncunun yüksek puan almaya çalışması ve doğru hamleleri yapmaya teşvik edilmesi sağlanabilir.
 
 ## Oyun İle İlgili Görseller
-- Proje başlatıldığında ilk olarak kullanıcıdan isim bilgisi alınır.
+- Giriş ekranı: Proje açıldığında bir isim girmeniz beklenmektedir. Daha sonra “start game” diyerek başlatılır.
 ![foto1](https://user-images.githubusercontent.com/56548687/230567331-8c9dba8d-cf4f-45d4-8257-8ea9804f5388.png)
 
-## Geliştirme Ortamı Hakkında
+- Oyun ekranı: Start game dedikten sonra açılan ekranda bir görsel yüklemek gerekiyor. Daha sonra “shuffle” diyerek karıştırıyoruz. Sağ tarafta girilen isim, hamle sayısı ve skor puanımız geliyor.
+![önemli1](https://user-images.githubusercontent.com/57071570/230606452-6e2b552b-7473-4ed8-80e8-9e4787081b13.png)
+![önemli 2](https://user-images.githubusercontent.com/57071570/230606529-047a2115-f257-42ce-b419-08118e8fd57d.png)
+
+-Puzzle tamamlandıktan sonra karşınıza aşağıdaki ekran gelir. Burada isim, skor puanı ve hamle sayısı görülmektedir. İstenirse “Restart Game” diyerek tekrar oynanabilir. Ayrıca skor tablosu txt dosyası olarak da bilgisayarınıza aşağıdaki şekilde kayıt edilmektedir.
+![foto4](https://user-images.githubusercontent.com/57071570/230606606-a3d28c6f-4c00-4e15-882c-0a22b8683740.png)
+
+
+
+## Geliştirme Ortamı Hakkında![Uploading önemli 2.png…]()
+
 
 - Video oyunları ve diğer interaktif 3B uygulamaların oluşturulmasını sağlayan popüler bir oyun motorudur. Unity'nin özellikleri arasında grafik motoru, fizik motoru, ses motoru, oyun nesneleri ve özellikleri, animasyon sistemleri, yazılım entegrasyonları ve birçok diğer araç bulunur. Geliştiriciler, oyunları veya uygulamaları aynı anda birden fazla platforma yayınlamak için tek bir kod tabanı kullanabilirler. Bu, geliştiricilerin uygulamalarının daha geniş bir kitleye ulaşmasını sağlar. Unity aynı zamanda kolay kullanımı ve öğrenilmesi için tasarlanmıştır. Kullanıcılar, basit bir sürükle ve bırak arabirimiyle, grafik sanatçıları, yazılım geliştiricileri ve diğer ekip üyeleri arasında işbirliğini kolaylaştıran bir araçlar yelpazesiyle çalışabilirler.
 
