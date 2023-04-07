@@ -14,8 +14,7 @@ Ayrıca, her hamlede puanlama yapılmalıdır. Doğru hamleler 5 puan, yanlış 
 ## Oyun İle İlgili Görseller
 Görsel 1
 ![foto1](https://user-images.githubusercontent.com/56548687/230567331-8c9dba8d-cf4f-45d4-8257-8ea9804f5388.png)
-Görsel 2
-![foto3](https://user-images.githubusercontent.com/56548687/230567363-6aaa9648-28b5-4cda-b06c-069e0797aa9e.png)
+
 
 
 ## Kodun yapısı aşağıdaki gibidir:
