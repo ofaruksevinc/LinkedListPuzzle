@@ -85,11 +85,11 @@ Proje dizinine gidin
 
 ## Emeği Geçenler
 
-| Ad | Soyad |
+| Ad | Soyad | Profil |
 |--|--|
-| Ömer Faruk | Sevinç |
-| Hüseyin | NAS |
-| Atayağız | USLU |
+| Ömer Faruk | Sevinç | |
+| Hüseyin | NAS | |
+| Atayağız | USLU | @Atayazz |
 
 
 
