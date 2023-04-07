@@ -85,9 +85,9 @@ Proje dizinine gidin
 
 ## Emeği Geçenler
 
-- [Ömer Faruk Sevinç 1][1] 
-- Hüseyin NAS [Referans 2][2] |  
-- Atayağız USLU [Referans 3][3] |  
+- [Ömer Faruk Sevinç ][1] 
+- [Hüseyin NAS][2]  
+- [Atayağız USLU][3]  
 
 
 [3]: https://github.com/Atayazz
