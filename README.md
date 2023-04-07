@@ -15,7 +15,8 @@ Ayrıca, her hamlede puanlama yapılmalıdır. Doğru hamleler 5 puan, yanlış 
 Görsel 1
 ![foto1](https://user-images.githubusercontent.com/56548687/230567331-8c9dba8d-cf4f-45d4-8257-8ea9804f5388.png)
 
-
+##Geliştirme Ortamı Hakkında
+Video oyunları ve diğer interaktif 3B uygulamaların oluşturulmasını sağlayan popüler bir oyun motorudur. Unity'nin özellikleri arasında grafik motoru, fizik motoru, ses motoru, oyun nesneleri ve özellikleri, animasyon sistemleri, yazılım entegrasyonları ve birçok diğer araç bulunur. Geliştiriciler, oyunları veya uygulamaları aynı anda birden fazla platforma yayınlamak için tek bir kod tabanı kullanabilirler. Bu, geliştiricilerin uygulamalarının daha geniş bir kitleye ulaşmasını sağlar. Unity aynı zamanda kolay kullanımı ve öğrenilmesi için tasarlanmıştır. Kullanıcılar, basit bir sürükle ve bırak arabirimiyle, grafik sanatçıları, yazılım geliştiricileri ve diğer ekip üyeleri arasında işbirliğini kolaylaştıran bir araçlar yelpazesiyle çalışabilirler.
 
 ## Kodun yapısı aşağıdaki gibidir:
 
