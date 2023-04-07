@@ -10,7 +10,13 @@ Bu oyunun başlatılması sırasında, ilk adım olarak resim 16 parçaya bölü
 Oyuncunun hamleleri, oyuncunun seçtiği parçanın bağlı listesi üzerinde yapılır. Örneğin, bir parçayı taşımak için, oyuncu seçilen parçanın düğümünü taşır ve komşularına işaret eden bağlantıları günceller. Bu işlem, bağlı listenin yeniden düzenlenmesi gerektiği için, düğümlerin yerlerini değiştirerek gerçekleştirilir.
 
 Ayrıca, her hamlede puanlama yapılmalıdır. Doğru hamleler 5 puan, yanlış hamleler -10 puan ile ödüllendirilir. Bu şekilde, oyuncunun yüksek puan almaya çalışması ve doğru hamleleri yapmaya teşvik edilmesi sağlanabilir.
-![foto3](https://user-images.githubusercontent.com/56548687/230565808-4312129c-1633-40dd-8aa1-729e73bad109.png)
+
+## Oyun İle İlgili Görseller
+Görsel 1
+![foto1](https://user-images.githubusercontent.com/56548687/230567331-8c9dba8d-cf4f-45d4-8257-8ea9804f5388.png)
+Görsel 2
+![foto3](https://user-images.githubusercontent.com/56548687/230567363-6aaa9648-28b5-4cda-b06c-069e0797aa9e.png)
+
 
 ## Kodun yapısı aşağıdaki gibidir:
 
