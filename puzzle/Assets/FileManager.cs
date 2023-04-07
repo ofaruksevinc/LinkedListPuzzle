@@ -1,4 +1,6 @@
 using System.Collections.Generic;
+using System.IO;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -27,6 +29,25 @@ public class FileManager : MonoBehaviour
 
     public GameObject first;
     public GameObject second;
+    
+    
+    public Image imageDisplay;
+    private Texture2D imageTexture;
+
+    public void LoadImage()
+    {
+        string imagePath = UnityEditor.EditorUtility.OpenFilePanel("Select Image", "", "png,jpg,jpeg");
+
+        if (imagePath != null)
+        {
+            byte[] imageData = File.ReadAllBytes(imagePath);
+            imageTexture = new Texture2D(2, 2);
+            imageTexture.LoadImage(imageData);
+            image.GetComponent<Image>().sprite = Sprite.Create(imageTexture, new Rect(0, 0, imageTexture.width, imageTexture.height), new Vector2(0.5f, 0.5f));
+        }
+        
+        Slice();
+    }
 
     public void Slice()
     {
@@ -42,11 +63,8 @@ public class FileManager : MonoBehaviour
                 var rect = new Rect(i*texture.width / 4,j*texture.height / 4, texture.width / 4, texture.height / 4);
                 Sprite sprite = Sprite.Create(texture, rect, Vector2.one * 0.5f);
                 
-                // newImage[index].GetComponent<Image>().sprite = sprite;
 
                 main.AddLast(sprite);
-
-                // index++;
             }
         }
 

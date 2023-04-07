@@ -23,6 +23,7 @@ public class GameMenu : MonoBehaviour
     [SerializeField] public TMP_Text name;
     [SerializeField] public TMP_Text move;
     [SerializeField] public TMP_Text score;
+    [SerializeField] public TMP_Text highScores;
 
     private void Update()
     {
@@ -30,4 +31,6 @@ public class GameMenu : MonoBehaviour
         score.text = GameManager.Instance.score.ToString();
         name.text = GameManager.Instance.playerName;
     }
+
+    
 }

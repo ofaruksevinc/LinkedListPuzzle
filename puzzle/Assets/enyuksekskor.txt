@@ -1,4 +1,5 @@
 Ad,Hamle,Puan
 esat,16,40
-ömer,14,75
-ata,14,30
+denene,14,45
+sdfg,13,70
+ömer,29,-105

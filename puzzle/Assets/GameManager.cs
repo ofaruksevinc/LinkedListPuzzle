@@ -1,4 +1,7 @@
+using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
@@ -45,6 +48,36 @@ public class GameManager : MonoBehaviour
         {
             sw.WriteLine(playerName + "," + move + "," + score);
         }
+    }
+
+    public void ReadScores()
+    {
+        string dosyaAdi = "enyuksekskor.txt";
+        string dosyaYolu = Path.Combine(Application.dataPath, dosyaAdi);
+        
+        List<string> kayitlar = new List<string>();
+
+        using (StreamReader sr = new StreamReader(dosyaYolu)) 
+        {
+            string satir;
+            while ((satir = sr.ReadLine()) != null)
+            {
+                string[] sutun = satir.Split(',');
+                if (sutun[2] != "Puan")
+                {
+                    string kayit = sutun[0] + "," + sutun[2];
+                    kayitlar.Add(kayit);
+                }
+            }
+        }
+
+        string scores = "";
+        foreach (var i in kayitlar)
+        {
+            scores = scores + i + "\n";
+        }
+
+        GameMenu.Instance.highScores.text = scores;
     }
 
     public string playerName;
