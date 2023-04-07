@@ -1,4 +1,4 @@
-# LinkedListPuzzle
+# Linked List Puzzle
 16 parçalı puzzle oyunu, bir resmin 16 parçaya bölündüğü ve bu parçaların karışık şekilde kullanıcının sırayla birleştirmesi gerektiği bir oyundur. Bu oyun, bağlı liste veri yapısı kullanılarak oluşturulabilir.
 
 Oyunun amacı, kullanıcının verilen karışık parçaları doğru sıraya yerleştirmesidir. Oyuncu, her hamleyi yapmadan önce bir parçayı seçer ve bu parçayı oyundaki boş yere taşır. Parçaların sıraya konulmasıyla resim tamamlanır ve kullanıcı kazanır.
