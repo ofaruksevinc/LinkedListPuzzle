@@ -20,7 +20,8 @@
 ![önemli 2](https://user-images.githubusercontent.com/57071570/230606529-047a2115-f257-42ce-b419-08118e8fd57d.png)
 
 -Puzzle tamamlandıktan sonra karşınıza aşağıdaki ekran gelir. Burada isim, skor puanı ve hamle sayısı görülmektedir. İstenirse “Restart Game” diyerek tekrar oynanabilir. Ayrıca skor tablosu txt dosyası olarak da bilgisayarınıza aşağıdaki şekilde kayıt edilmektedir.
-![foto4](https://user-images.githubusercontent.com/57071570/230606606-a3d28c6f-4c00-4e15-882c-0a22b8683740.png)
+![foto4](https://user-images.githubusercontent.com/57071570/230606947-58ce5de0-4144-4ccb-890f-3801dfbe3f88.png)
+<img width="713" alt="Ekran Resmi 2023-04-07 15 07 10" src="https://user-images.githubusercontent.com/57071570/230606990-306a4b08-ac34-4c96-b2bb-c6bacf9688c4.png">
 
 
 
