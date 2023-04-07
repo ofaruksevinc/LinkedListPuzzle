@@ -84,9 +84,9 @@ Proje dizinine gidin
 ```
 
 ## Emeği Geçenler
-- @ofaruksevinc
+- @faruksevinc
 -
--atayazz
+- @atayazz
 
 
   
