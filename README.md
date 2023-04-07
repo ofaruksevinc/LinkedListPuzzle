@@ -25,7 +25,7 @@
 
 
 
-## Geliştirme Ortamı Hakkında![Uploading önemli 2.png…]()
+## Geliştirme Ortamı Hakkında
 
 
 - Video oyunları ve diğer interaktif 3B uygulamaların oluşturulmasını sağlayan popüler bir oyun motorudur. Unity'nin özellikleri arasında grafik motoru, fizik motoru, ses motoru, oyun nesneleri ve özellikleri, animasyon sistemleri, yazılım entegrasyonları ve birçok diğer araç bulunur. Geliştiriciler, oyunları veya uygulamaları aynı anda birden fazla platforma yayınlamak için tek bir kod tabanı kullanabilirler. Bu, geliştiricilerin uygulamalarının daha geniş bir kitleye ulaşmasını sağlar. Unity aynı zamanda kolay kullanımı ve öğrenilmesi için tasarlanmıştır. Kullanıcılar, basit bir sürükle ve bırak arabirimiyle, grafik sanatçıları, yazılım geliştiricileri ve diğer ekip üyeleri arasında işbirliğini kolaylaştıran bir araçlar yelpazesiyle çalışabilirler.
