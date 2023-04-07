@@ -84,9 +84,13 @@ Proje dizinine gidin
 ```
 
 ## Emeği Geçenler
-- @faruksevinc
-- @huseyin7883
-- @atayazz
+
+- | Ad | Soyad |
+|--|--|
+| Ömer Faruk | Sevinç |
+| Hüseyin | NAS |
+| Atayağız | USLU |
+
 
 
   
