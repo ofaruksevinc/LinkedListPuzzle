@@ -35,7 +35,7 @@ Görsel 1
 - Taşınan parçanın yeni konumu, bağlı listesi üzerindeki düğümlerin yerlerinin değiştirilmesiyle güncellenir.
 - Her hamlede puanlama yapılır ve doğru hamleler 5 puan, yanlış hamleler -10 puan ile ödüllendirilir.
 - Kullanıcının kazanması durumu, resim tamamlanana kadar beklenir.
-- 
+ 
 ## Özellikler
 
 - Hamle sayısı sayma.
