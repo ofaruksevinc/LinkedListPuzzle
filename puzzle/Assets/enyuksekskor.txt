@@ -1,0 +1,4 @@
+Ad,Hamle,Puan
+esat,16,40
+ömer,14,75
+ata,14,30
