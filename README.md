@@ -12,7 +12,7 @@
 - Ayrıca, her hamlede puanlama yapılmalıdır. Doğru hamleler 5 puan, yanlış hamleler -10 puan ile ödüllendirilir. Bu şekilde, oyuncunun yüksek puan almaya çalışması ve doğru hamleleri yapmaya teşvik edilmesi sağlanabilir.
 
 ## Oyun İle İlgili Görseller
-Görsel 1
+- Proje başlatıldığında ilk olarak kullanıcıdan isim bilgisi alınır.
 ![foto1](https://user-images.githubusercontent.com/56548687/230567331-8c9dba8d-cf4f-45d4-8257-8ea9804f5388.png)
 
 ## Geliştirme Ortamı Hakkında
