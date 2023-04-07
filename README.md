@@ -62,7 +62,7 @@ Proje dizinine gidin
   cd my-project
 ```
 
-Gerekli paketleri yükleyin
+Gerekli paketleri yükleyin 
 
 
 
