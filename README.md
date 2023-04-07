@@ -85,11 +85,9 @@ Proje dizinine gidin
 
 ## Emeği Geçenler
 
-| Ad | Soyad | Profil | 
-|--|--|
-| Ömer Faruk | Sevinç | [Referans 1][1] |   
-| Hüseyin | NAS | [Referans 2][2] |  
-| Atayağız | USLU | [Referans 3][3] |  
+- [Ömer Faruk Sevinç 1][1] 
+- Hüseyin NAS [Referans 2][2] |  
+- Atayağız USLU [Referans 3][3] |  
 
 
 [3]: https://github.com/Atayazz
